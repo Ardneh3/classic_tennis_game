@@ -1,5 +1,8 @@
 { 
   "homepage": "https://lukasz-kowalski.github.io/classic_tennis_game",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
   "dependencies": {
     "gh-pages": "^1.2.0"
   },
