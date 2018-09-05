@@ -1,5 +1,8 @@
-{
-  "dependencies": {},
+{ 
+  "homepage": "https://lukasz-kowalski.github.io/classic_tennis_game",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
   "devDependencies": {
     "eslint": "^5.3.0",
     "eslint-config-airbnb-base": "^13.0.0",
